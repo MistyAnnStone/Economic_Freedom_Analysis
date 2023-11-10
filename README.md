@@ -24,15 +24,15 @@ The data set includes data from 1970-2021 and includes 165 countries. The Fraser
 
 I use several independent variables from the United Nations website (http://data.un.org). 
 
-•	GDP (Gross Domestic Product) refers to the general size of a country’s economy. 
-•	Population variables, including some gender separated.
-•	CPI (Consumer Price Index) is a measure of inflation.
-•	Labor Force data includes unemployment as well as labor force participation.
-•	Education includes enrollment data. 
-•	A list of countries and their continents on Statistics Times, which cites the UN Statistics Division. 
-•	The World Bank categorizes economies by income: High, Upper-Middle, Lower-Middle, and Low based on GNI (Gross National Income). 
-•	I created a variable that equals 1 if the country is landlocked and 0 otherwise as well as a variable that equals 1 if the country is an LDN (Least Developed Nation, as defined by the UN based on the net income per capita of a nation.  (This data is from UNCTAD, UN Conference on Trade and Development,  https://unctad.org/topic/landlocked-developing-countries/list-of-LLDCs. )
-•	I created a variable that equals 1 if the country has English as an official language or if it is widely spoken. This data came from the CIA World Factbook. (https://web.archive.org/web/20070613004519/https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html) 
+•	GDP (Gross Domestic Product) refers to the general size of a country’s economy. <br>
+•	Population variables, including some gender separated.<br>
+•	CPI (Consumer Price Index) is a measure of inflation.<br>
+•	Labor Force data includes unemployment as well as labor force participation.<br>
+•	Education includes enrollment data. <br>
+•	A list of countries and their continents on Statistics Times, which cites the UN Statistics Division. <br>
+•	The World Bank categorizes economies by income: High, Upper-Middle, Lower-Middle, and Low based on GNI (Gross National Income). <br>
+•	I created a variable that equals 1 if the country is landlocked and 0 otherwise as well as a variable that equals 1 if the country is an LDN (Least Developed Nation, as defined by the UN based on the net income per capita of a nation.  (This data is from UNCTAD, UN Conference on Trade and Development,  https://unctad.org/topic/landlocked-developing-countries/list-of-LLDCs. )<br>
+•	I created a variable that equals 1 if the country has English as an official language or if it is widely spoken. This data came from the CIA World Factbook. (https://web.archive.org/web/20070613004519/https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html) <br>
 
 ## Tools
 I use Excel and Python: Jupyter notebooks via the Anaconda Navigator to complete this project. I used the following libraries: Pandas, Numpy, matplotlib, and seaborn. I use Tableau Public for the final Storyboard.
