@@ -1,7 +1,7 @@
 # Economic Freedom Analysis
 
 ## Objective
-This study analyzes the the relationship between a country's Economic Freedom compared to GDP, CPI, education enrollment of women, population structure, landlocked, least developed country as defined by the IMF.
+This study analyzes the the relationship between a country's Economic Freedom compared to GDP, CPI, education enrollment of women, population structure, landlocked, Least Developed Country as defined by the IMF.
 
 ## Storyboard
 https://public.tableau.com/views/EconomicFreedom_16995902560790/DeterminantsofEconomicFreedom?:language=en-US&:display_count=n&:origin=viz_share_link
